@@ -20,9 +20,9 @@ const contactInfo = [
   {
     icon: <Phone className="w-5 h-5 sm:w-6 sm:h-6" />,
     title: "Phone Numbers",
-    content: ["+91 9987654332", "+91 7875685434", "+91 8657645324", "+91 7756564545"],
+    content: ["+91 99876543982", "+91 7875685434", "+91 8657645324", "+91 7756564545"],
     color: "#22C55E",
-    action: "tel:+919987654332",
+    action: "tel:+918767457545",
   },
   {
     icon: <Mail className="w-5 h-5 sm:w-6 sm:h-6" />,
@@ -419,7 +419,7 @@ export default function ContactPage() {
                   For urgent inquiries, reach us via WhatsApp for faster response.
                 </p>
                 <motion.a
-                  href="https://wa.me/919987654332"
+                  href="https://wa.me/918767457545"
                   target="_blank"
                   rel="noreferrer"
                   whileHover={{ scale: 1.05 }}
