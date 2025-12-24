@@ -294,7 +294,7 @@ export default function ContactPage() {
                   </label>
                   <input
                     type="tel"
-                    placeholder="+91 9876543210"
+                    placeholder="+91 8767457545"
                     className="w-full px-3 sm:px-4 py-2.5 sm:py-3 rounded-xl bg-white/5 border border-white/10 text-white placeholder-white/40 focus:outline-none focus:border-green-500/50 focus:ring-2 focus:ring-green-500/20 transition-all text-sm sm:text-base"
                   />
                 </motion.div>
